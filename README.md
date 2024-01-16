@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nirjara mhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirjara mhaskar" height="30" width="40" /></a>
-<a href="https://fb.com/nirjara mhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirjara mhaskar" height="30" width="40" /></a>
-<a href="https://instagram.com/nirjara.mhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirjara.mhaskar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nirjaramhaskar1600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nirjaramhaskar1600" height="30" width="40" /></a>
-<a href="https://discord.gg/vr3zdVN5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vr3zdVN5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nirjara mhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirjara mhaskar" height="40" width="40" /></a>  &nbsp &nbsp
+<a href="https://fb.com/nirjara mhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirjara mhaskar" height="40" width="40" /></a>  &nbsp &nbsp
+<a href="https://instagram.com/nirjara.mhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirjara.mhaskar" height="40" width="40" /></a>  &nbsp &nbsp
+<a href="https://www.youtube.com/c/nirjaramhaskar1600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nirjaramhaskar1600" height="40" width="40" /></a>  &nbsp &nbsp
+<a href="https://discord.gg/vr3zdVN5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vr3zdVN5" height="40" width="40" /></a>  
 </p>
 <br>
 <hr>
