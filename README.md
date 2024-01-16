@@ -14,7 +14,6 @@
 - ⚡ Fun fact **I am curious 😅**
 <br>
 <hr>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
