@@ -63,7 +63,7 @@
 
   <hr>
 
-<p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirjaramhaskar&show_icons=true&locale=en&layout=compact" alt="nirjaramhaskar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirjaramhaskar&show_icons=true&locale=en&layout=compact" alt="nirjaramhaskar" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirjaramhaskar&show_icons=true&locale=en" alt="nirjaramhaskar" /></p>
 
 
