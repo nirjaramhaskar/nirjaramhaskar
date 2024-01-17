@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirjaramhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="nirjaramhaskar" /> </p>
 <br>
 <br>
-- 🌱 I’m currently learning **node.js ,big data,jQuery**
+- 🌱 I’m currently learning [ node.js ,big data,jQuery ]
 
 - 📫 How to reach me **nirjaramhaskar233@gmail.com**
 
