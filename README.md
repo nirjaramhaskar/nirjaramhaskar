@@ -9,7 +9,10 @@
 <br>
 - 🌱 I’m currently learning [ node.js ,big data,jQuery ]
 
-- 📫 How to reach me **nirjaramhaskar233@gmail.com**
+- 📫 How to reach me --
+- 📫 MY Discord! link   :- **https://discord.com/invite/WFVTGDrp**
+- 📫 MY instagram link  :- **nirjaramhaskar233@gmail.com**
+- 📫 My Linkdin profile :- **https://www.linkedin.com/in/nirjara-mhaskar-1a804b229**
 
 - ⚡ Fun fact **I am curious 😅**
 <br>
